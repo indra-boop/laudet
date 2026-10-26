@@ -7,4 +7,5 @@ artifacts
 *.log
 .env
 .env.*
-.DS_Store
+.project_id
+.node_modules.lock
